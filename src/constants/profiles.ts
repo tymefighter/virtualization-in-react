@@ -50,4 +50,28 @@ export const PROFILES: Profile[] = [
     phone: '6161162349',
     profileImageUrl: 'https://i.ibb.co/jfQQGRV/sith-trooper.jpg'
   },
+  {
+    name: 'Tram Edet Oson',
+    email: 'tram.oson@sith.com',
+    phone: '1717174771',
+    profileImageUrl: 'https://i.ibb.co/jfQQGRV/sith-trooper.jpg'
+  },
+  {
+    name: 'Youv Elobomet',
+    email: 'youv@sith.com',
+    phone: '6616631654',
+    profileImageUrl: 'https://i.ibb.co/jfQQGRV/sith-trooper.jpg'
+  },
+  {
+    name: 'Jogti Trebb',
+    email: 'trebb@sith.com',
+    phone: '4541359101',
+    profileImageUrl: 'https://i.ibb.co/jfQQGRV/sith-trooper.jpg'
+  },
+  {
+    name: 'Dranavim Bormana',
+    email: 'dranavim@sith.com',
+    phone: '7179103910',
+    profileImageUrl: 'https://i.ibb.co/jfQQGRV/sith-trooper.jpg'
+  },
 ];
